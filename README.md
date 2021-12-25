@@ -14,3 +14,4 @@ Steps I followed in this project are:
 (v) prediction
 
 (vi) evaluating the model
+ Thus, our model Finish
